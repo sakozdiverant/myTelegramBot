@@ -1,0 +1,17 @@
+TOKEN = хххххххх:AAFy7D3a8W1ххххххххххххххх
+host = хх.хх.хх.хх
+to_emails = хххх@хххх.kz
+Button_name_1 = Терминал оплаты
+Button_name_2 = ЭО
+Button_name_3 = ПК
+Button_name_4 = Планшет
+Button_send_1 = BOT_SHF_TO
+Button_send_2 = BOT_SHF_EO
+Button_send_3 = BOT_SHF_pk
+Button_send_4 = BOT_SHF_tab
+Button_down_1 = Отправить заявку в Service desk
+Button_down_2 = Выбрать тему
+Re_registration = Новый адрес
+Registration = Зарегистрируйте Ваш почтовый адрес KMF!!!
+Incorrect_address = Вы ввели е-mail адрес с ошибкой или его нет в списке разрешенных для ШФ
+Hello = Вас приветствует первый бот КМФ!!!
